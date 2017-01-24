@@ -1,0 +1,9 @@
+{   
+   "username":"mary",   
+   "age":"20",   
+   "info":{"tel":"1234566","celltelphone":788666},   
+   "address":[   
+           {"city":"beijing","code":"1000022"},   
+           {"city":"shanghai","code":"2210444"}   
+    ]   
+}
